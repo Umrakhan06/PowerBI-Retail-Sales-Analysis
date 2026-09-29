@@ -93,7 +93,7 @@ Presenting business data in an interactive dashboard
 
 README.md -- Project documentation
 
-Dashboard (3).png -- Dashboard preview
+Dashboard.png -- Dashboard preview
 
 Sales-Dashboard.pbix
 
