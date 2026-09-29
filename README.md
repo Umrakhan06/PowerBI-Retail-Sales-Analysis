@@ -93,7 +93,7 @@ Presenting business data in an interactive dashboard
 
 README.md -- Project documentation
 
-Dashboard.png -- Dashboard preview
+![Power BI Dashboard](dashboard.png)
 
 Sales-Dashboard.pbix
 
