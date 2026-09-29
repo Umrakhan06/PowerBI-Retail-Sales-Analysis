@@ -94,6 +94,7 @@ Presenting business data in an interactive dashboard
 README.md -- Project documentation
 
 Dashboard.png
+
 Sales-Dashboard.pbix
 
 👩‍💻 Project Type
